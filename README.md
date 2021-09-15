@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub profile!
 
-My name is Grant Taggart and I am a full-stack engineer from the San Francisco Bay Area. I have a backround in entrepreneurship and passions for music (both playing and listening) and cycling!
+My name is Grant Taggart and I am a full-stack engineer from the San Francisco Bay Area. I have a backround in entrepreneurship and passions for music (both playing and listening) and multi-surface bike riding and racing!
 
 I'm currently well-versed in the technologies below, but I am excited to learn more!
 
